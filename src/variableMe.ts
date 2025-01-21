@@ -15,7 +15,6 @@ console.log(isLoggedIn);
 
 console.log(exampleStr);
 
-
 // any - any value can be inserted - not optimal
 let hero: any;
 
